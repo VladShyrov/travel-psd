@@ -1,0 +1,147 @@
+body {
+  background: #e8e8e8 url("../img/Ellipse.png") 50% 130px no-repeat;
+}
+.content {
+  color: #273d46;
+
+  padding: 125px 0 137px 0;
+  max-width: 841px;
+  margin: 0px auto;
+}
+h1 {
+  font-family: Arial, sans-serif;
+}
+
+p {
+  font-family: "Times New Roman", serif;
+}
+
+.block {
+  text-align: center;
+  color: #8a9599;
+  font-family: "Arial";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 40px;
+  margin-left: 10px;
+}
+
+.text {
+  text-align: center;
+  padding-right: 30px;
+  color: #273d46;
+  font-family: "Times New Roman";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 50px;
+}
+
+.img {
+  box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);
+  background-color: #ffffff;
+  padding: 10px;
+  margin-top: 50px;
+}
+
+.my-photo {
+  align-content: center;
+  background: #273d46;
+}
+
+.dis-one {
+  color: #5b6b72;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 40px;
+  margin-top: 110px;
+  margin-left: 40px;
+}
+
+.discription {
+  color: #5b6b72;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 40px;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.chek-list-conteiner {
+  margin-top: 65px;
+}
+
+.chek {
+  margin-top: 65px;
+  margin: 0px auto;
+}
+.chek2 {
+  margin-top: 5px;
+  margin: 0px auto;
+}
+.chek3 {
+  margin-top: 5;
+  margin: 0px auto;
+}
+.chek4 {
+  margin-top: 5px;
+  margin: 0px auto;
+}
+
+.chek-text {
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+  color: #273d46;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  margin-left: 10px;
+}
+
+.chek-text-color {
+  font-style: oblique;
+  color: #80b7b3;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  margin-left: 10px;
+}
+
+.chek-text-bold {
+  color: #273d46;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 36px;
+  margin-left: 10px;
+}
+.chek-text-line {
+  color: #bdc2c4;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  text-decoration: line-through;
+  margin-left: 10px;
+}
+
+.botom-content-link {
+  margin-top: 60px;
+  height: 44px;
+  display: inline-block;
+  line-height: 44px;
+  padding: 0 30px;
+  border-radius: 24px;
+  background-color: #80b7b3;
+  box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2.8px;
+  text-decoration: none;
+}
+.botom-content-link span {
+  padding: 0px 30px 0px 0px;
+  background: url("../img/Shape.svg") right no-repeat;
+}
